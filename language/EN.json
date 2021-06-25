@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*අප්ඩේට් නම් නෑ බ්‍රෝ*",
-            "NEW_UPDATE": "*මාරයා Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
+            "NEW_UPDATE": "*මෙන්න අප්ඩේට් තීනෝ*\n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating..🇱🇰```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "💢 මාරයා Restarting ?*"
+            "AFTER_UPDATE": "💢 මාරයා Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
