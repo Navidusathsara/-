@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Nissaram 🤠```"
+            "DOWNLOADING": "```පට්ට photo ඒක ආ 🤠```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -216,14 +216,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*RAVANA Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
+            "UPDATE": "*අප්ඩේට් නම් නෑ බ්‍රෝ*",
+            "NEW_UPDATE": "*මාරයා Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating..🇱🇰```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "💢 RAVANA Restarting ?*"
+            "AFTER_UPDATE": "💢 මාරයා Restarting ?*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
@@ -237,7 +237,7 @@
             "HUMI": "Humidity",
             "WIND": "Wind Speed",
             "CLOUD": "Cloud",
-            "NOT_FOUND": "```I couldn't find a city with this name. 😖```",
+            "NOT_FOUND": "```මට මේ නම තියෙන නගරයක් හොයාගන්න බෑ. 😖```",
             "QUOTE_DESC": "Gives a random quote.",
             "NEED_LOCATIONA": "*Invalid Request*",
             "QUOTE": "Quote:",
@@ -299,7 +299,7 @@
             "IGDESC":"Download videos from IG link \n For Reels change the 'reels' in the link to 'p'.",
             "FBDESC":"Download videos from fb link",
             "NEED_WORDFB":"Download videos from fb link",
-            "NOT_FOUNDFB":"Fb video not found"
+            "NOT_FOUNDFB":"Fb video එක මට හොයාගන්න බෑ මට සමාවෙන්න"
             
             
         },
