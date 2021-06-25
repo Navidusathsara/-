@@ -16,7 +16,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var ttinullimage = await axios.get(`https://api.zeks.xyz/api/wolflogo?apikey=cjxJIn9eDletRHac3CG6CdvGxFH&text1=RAVANA&text2=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+        var ttinullimage = await axios.get(`https://api.zeks.xyz/api/watercolour?apikey=00oQhHnqcqFGofHbjsFtXZcKVWO&text1=Ini%20contoh&text2=Okey=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made by RAVANA🇱🇰' })
 
